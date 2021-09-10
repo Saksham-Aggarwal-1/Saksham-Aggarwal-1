@@ -3,7 +3,7 @@
  
 
 
-- 👨‍🎓 I'm a 2nd year undergraduate student pursuing CSE from PEC Chandigarh
+- 👨‍🎓 I'm a 3rd year undergraduate student pursuing CSE from PEC Chandigarh
 - 👀 I’m interested in Machine Learning, Web Development
 - 🌱 I’m currently learning Full Stack Development
 
